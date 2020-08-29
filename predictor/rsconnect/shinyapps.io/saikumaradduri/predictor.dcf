@@ -1,0 +1,12 @@
+name: predictor
+title: predictor
+username:
+account: saikumaradduri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2722526
+bundleId: 3569895
+url: https://saikumaradduri.shinyapps.io/predictor/
+when: 1598702628.81212
+asMultiple: FALSE
+asStatic: FALSE
